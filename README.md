@@ -140,6 +140,32 @@ I'm a **Computer Science student** at City University Malaysia with a **3.60 GPA
 <tr>
 <td width="50%">
 
+### 💸 RemitXpress
+
+**Blockchain-Powered International Remittance Platform**
+
+A secure, fast, and affordable international money transfer platform powered by blockchain technology. Features lightning-fast transfers, bank-level security, multi-currency support, and KYC/AML compliance.
+
+**Tech Stack:**
+
+- React 18 + TypeScript, Tailwind CSS
+- Node.js, Express, MongoDB
+- Solidity, Hardhat, Ethers.js
+- JWT Auth, Redis, Multi-sig Wallets
+
+**Key Features:**
+
+- ⚡ Complete transactions in minutes
+- 🔒 Military-grade encryption + 2FA
+- 💰 Save up to 90% on fees
+- 🌍 200+ countries supported
+- 🪙 Multi-currency (USD, EUR, ETH, USDT, USDC)
+
+🔗 [GitHub](https://github.com/arafateasin/remitxpress)
+
+</td>
+<td width="50%">
+
 ### 🦟 DengueAI
 
 **🏆 3rd Place - UST Malaysia 24-Hour Hackathon**
@@ -158,6 +184,8 @@ AI-powered dengue prediction and management application using Python (LSTM & CNN
 🔗 [Live Demo](https://dengue-ai-frontend-4onu.vercel.app/) | [GitHub](https://github.com/arafateasin)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💼 ProfitHive
