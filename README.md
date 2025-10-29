@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Easin Arafat
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Easin+Arafat;Blockchain+%26+FinTech+Developer;Software+Engineer+%7C+AI+Enthusiast" alt="Typing SVG" />
 
-### 🚀 Blockchain & FinTech Developer | 💻 Software Engineer | 🤖 AI Enthusiast
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Blockchain & FinTech Developer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Software Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" /> AI Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/arafateasin?style=social)](https://github.com/arafateasin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arafateasin)
