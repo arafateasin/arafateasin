@@ -102,10 +102,11 @@ I'm a **Computer Science student** at City University Malaysia with a **3.60 GPA
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white)
 
-**Smart Contracts** • **ERC20 Tokens** • **ECDSA** • **Merkle Trees** • **DApps** • **Foundry** • **Alchemy** • **Remix IDE**
+**Smart Contracts** • **ERC20 Tokens** • **ECDSA** • **Merkle Trees** • **DApps** • **Foundry** • **Hardhat** • **Alchemy** • **Remix IDE**
 
 ### Databases & Cloud
 
