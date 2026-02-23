@@ -1,427 +1,499 @@
-<div align="center">
+﻿<div align="center">
 
-# Hi, I'm Easin Arafat 👋
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     HEADER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### ⚙️ Blockchain & FinTech Developer | 💻 Software Engineer | 🤖 AI Enthusiast
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=EASIN%20ARAFAT&fontSize=60&fontColor=00ffff&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20Web3%20Developer%20%7C%20DeFi%20Architect&descAlignY=58&descColor=a855f7&animation=fadeIn)
 
-[![GitHub followers](https://img.shields.io/github/followers/arafateasin?style=social)](https://github.com/arafateasin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arafateasin)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:easinarafat.bn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://arafateasin.dev/)
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=⛓️+Building+the+Decentralized+Future;🔐+Smart+Contract+%26+DeFi+Architect;🤖+AI+%2B+Blockchain+Fusion+Developer;🌐+Web3+Full-Stack+Engineer;💎+Turning+Code+into+On-Chain+Value" alt="Typing SVG" />
 
-📧 easinarafat.bn@gmail.com | 📱 +601112794136 | 🌐 [arafateasin.dev](https://arafateasin.dev/)
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![GitHub](https://img.shields.io/badge/GitHub-arafateasin-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0d1117&color=00ffff)](https://github.com/arafateasin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=a855f7)](https://linkedin.com/in/arafateasin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arafateasin.dev-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&color=00ff88)](https://arafateasin.dev/)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=ff6b6b)](mailto:easinarafat.bn@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=arafateasin&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/arafateasin?style=for-the-badge&color=a855f7&labelColor=0d1117&label=FOLLOWERS&logo=github)](https://github.com/arafateasin)
 
 </div>
 
 ---
 
-## 🎯 About Me
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   IDENTITY BLOCK                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```typescript
-const easinArafat = {
-  role: "Computer Science Student & Full-Stack Developer",
-  university: "City University Malaysia",
-  location: "Cyberjaya, Malaysia",
-  graduationDate: "May 2027",
-  gpa: "3.60/4.00",
-  focus: [
-    "Blockchain Development",
-    "FinTech Solutions",
-    "Software Engineering",
-    "AI/ML Applications",
-    "Full-Stack Development",
-  ],
-  currentResearch: "DeFi for Financial Inclusion",
-  interests: [
-    "Smart Contracts",
-    "Decentralized Apps",
-    "AI/ML",
-    "Web3",
-    "Cloud Architecture",
-    "DevOps",
-  ],
-  stats: {
-    projectsCompleted: "15+",
-    hackathons: "4+",
-    awards: "Multiple Winners & Runners-Up",
-    certifications: "6+ Professional Certifications",
-  },
-  leadership: {
-    current: "Secretary, City University Club of Computing",
-    military: "Former Sergeant, Bangladesh National Cadet Corps (2015-2018)",
-  },
-};
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    ◈  NODE IDENTITY  ◈                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║  NAME      →  Easin Arafat                                      ║
+║  ROLE      →  Blockchain Engineer & Full-Stack Developer         ║
+║  CHAIN     →  Ethereum | Sepolia | EVM-Compatible               ║
+║  NETWORK   →  City University Malaysia  [ GPA: 3.60 / 4.00 ]   ║
+║  LOCATION  →  Cyberjaya, Malaysia  🌏                           ║
+║  STATUS    →  🟢  ONLINE — Open to Opportunities               ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-I'm a **Computer Science student** at City University Malaysia with a **3.60 GPA**, specializing in **Software Engineering**. I build **decentralized applications**, **smart contracts**, and **AI-enabled tools** for real-world use cases. My work combines secure systems design, performance-focused engineering, and research into **DeFi for financial inclusion**.
-
-### 🎓 Academic Excellence
-
-- **Concentration:** Software Engineering
-- **Key Coursework:** Data Structures & Algorithms, System Analysis & Design, Java Programming, Software Testing, DevOps, Artificial Intelligence, OOP, Computer Networks, Cloud Architecture, Modelling & Simulation
-- **GPA:** 3.60/4.00
-
-### 🏆 Leadership & Service
-
-- **Secretary**, City University Club of Computing (Jun 2025 - Present)
-- **Sergeant**, Bangladesh National Cadet Corps (2015-2018) - Led cadets in military drills, leadership development, and national service programs
-
-### 🔬 Current Focus
-
-- Exploring blockchain-based solutions to improve financial accessibility for underserved communities
-- Developing AI-powered prediction systems for real-world applications
-- Building scalable full-stack applications with modern tech stacks
+</div>
 
 ---
 
-## 💻 Tech Stack
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ABOUT / CODEX BLOCK                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `◈` CODEX — About Me
+
+```typescript
+// ┌─────────────────────────────────────────────────────────────┐
+// │              BLOCKCHAIN NODE CONFIGURATION                  │
+// └─────────────────────────────────────────────────────────────┘
+
+const NODE: Developer = {
+  alias       : "Easin Arafat",
+  university  : "City University Malaysia",
+  graduation  : "May 2027",
+  gpa         : "3.60 / 4.00",
+  location    : "Cyberjaya, Malaysia 📍",
+
+  PROTOCOLS: {
+    blockchain  : ["Ethereum", "Solidity", "DeFi", "ERC-20", "ECDSA"],
+    web3        : ["Hardhat", "Foundry", "Ethers.js", "Web3.js", "Alchemy"],
+    fullStack   : ["React", "Next.js", "Node.js", "TypeScript", "Flutter"],
+    ai_ml       : ["Python", "LSTM", "CNN", "OpenAI API"],
+    devOps      : ["Azure DevOps", "Git", "Agile", "CI/CD"],
+  },
+
+  CHAIN_STATS: {
+    projectsDeployed  : "15+",
+    hackathons        : "4+",
+    awardsWon         : "Multiple 🏆",
+    certifications    : "6+ Professional",
+  },
+
+  GOVERNANCE: {
+    role        : "Secretary — City University Club of Computing",
+    military    : "Former Sergeant — Bangladesh NCC (2015–2018)",
+  },
+
+  currentResearch : "DeFi for Financial Inclusion 🔬",
+  philosophy      : "Innovation distinguishes a leader from a follower.",
+};
+
+export default NODE;
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `⬡` TECH STACK — On-Chain Arsenal
 
 <div align="center">
 
-### Languages & Frameworks
+### ◈ CORE LANGUAGES
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00ffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff6b6b)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00b4db)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=a855f7)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ffff)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+</div>
 
-### Blockchain & Web3
+<div align="center">
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white)
+### ⛓️ BLOCKCHAIN & WEB3 LAYER
 
-**Smart Contracts** • **ERC20 Tokens** • **ECDSA** • **Merkle Trees** • **DApps** • **Foundry** • **Hardhat** • **Alchemy** • **Remix IDE**
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=00ffff)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=hardhat&logoColor=fff100)
+![Foundry](https://img.shields.io/badge/Foundry-0d1117?style=for-the-badge&logo=ethereum&logoColor=a855f7)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-0d1117?style=for-the-badge&logo=ethereum&logoColor=00ff88)
+![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=web3.js&logoColor=f16822)
+![DeFi](https://img.shields.io/badge/DeFi-0d1117?style=for-the-badge&logo=ethereum&logoColor=7c3aed)
+![Alchemy](https://img.shields.io/badge/Alchemy-0d1117?style=for-the-badge&logo=alchemy&logoColor=00ffff)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-0d1117?style=for-the-badge&logo=ethereum&logoColor=ff6b6b)
 
-### Databases & Cloud
+`Smart Contracts` • `ERC-20 Tokens` • `ECDSA` • `Merkle Trees` • `DApps` • `Multi-sig Wallets` • `Sepolia Testnet`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+</div>
 
-### Tools & DevOps
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🖥️ FULL-STACK FRAMEWORK LAYER
 
-**Agile** • **DevOps** • **Cloud Architecture** • **Cisco Networking** • **Google Maps API** • **Geolocator**
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ff88)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00b4db)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=spring-boot&logoColor=00ff88)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0d1117?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
+
+</div>
+
+<div align="center">
+
+### 🗄️ DATABASE & CLOUD LAYER
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff88)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ffff)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0d1117?style=for-the-badge&logo=cloudinary&logoColor=a855f7)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0d1117?style=for-the-badge&logo=azure-devops&logoColor=0078d7)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=ff6b6b)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `◈` DEPLOYED PROTOCOLS — Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💸 RemitXpress
+### ⛓️ RemitXpress
+> **Blockchain-Powered Remittance Protocol**
 
-**Blockchain-Powered International Remittance Platform**
+```
+STATUS   ▸ 🟢 LIVE
+CHAIN    ▸ Ethereum / EVM
+NETWORK  ▸ Mainnet Ready
+```
 
-A secure, fast, and affordable international money transfer platform powered by blockchain technology. Features lightning-fast transfers, bank-level security, multi-currency support, and KYC/AML compliance.
+Cross-border money transfer platform leveraging blockchain to eliminate intermediaries. Sub-minute settlements across 200+ countries with military-grade encryption and multi-sig wallet architecture.
 
-**Tech Stack:**
+**Protocol Stack:**
+`React 18` `TypeScript` `Tailwind CSS`
+`Node.js` `Express` `MongoDB`
+`Solidity` `Hardhat` `Ethers.js`
+`JWT` `Redis` `Multi-sig Wallets`
 
-- React 18 + TypeScript, Tailwind CSS
-- Node.js, Express, MongoDB
-- Solidity, Hardhat, Ethers.js
-- JWT Auth, Redis, Multi-sig Wallets
+**On-Chain Metrics:**
+- ⚡ Transfers complete in **< 2 minutes**
+- 💰 Up to **90% fee reduction** vs traditional wire
+- 🌍 **200+ countries** | 5 currencies supported
+- 🔒 2FA + KYC/AML compliance layer
 
-**Key Features:**
-
-- ⚡ Complete transactions in minutes
-- 🔒 Military-grade encryption + 2FA
-- 💰 Save up to 90% on fees
-- 🌍 200+ countries supported
-- 🪙 Multi-currency (USD, EUR, ETH, USDT, USDC)
-
-🔗 [GitHub](https://github.com/arafateasin/remitxpress)
-
-</td>
-<td width="50%">
-
-### 🦟 DengueAI
-
-**🏆 3rd Place - UST Malaysia 24-Hour Hackathon**
-
-AI-powered dengue prediction and management application using Python (LSTM & CNN) with real-time data analysis, custom data pipelines, and dynamic repository updates.
-
-**Tech Stack:**
-
-- Python (LSTM & CNN)
-- Node.js, Express
-- MongoDB, Passport.js
-- Cloudinary, EJS
-
-**Impact:** Innovative AI-driven approach to public health challenges
-
-🔗 [Live Demo](https://dengue-ai-frontend-4onu.vercel.app/) | [GitHub](https://github.com/arafateasin)
+[![View Protocol](https://img.shields.io/badge/◈_VIEW_PROTOCOL-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/arafateasin/remitxpress)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 ProfitHive
+### 🤖 DengueAI
+> **AI-Powered Public Health Intelligence**
 
-**InnoJam Hackathon Project**
+```
+STATUS   ▸ 🏆 3RD PLACE
+EVENT    ▸ UST Malaysia 24H Hackathon
+IMPACT   ▸ Regional Public Health
+```
 
-AI-powered demand forecasting and blockchain revenue sharing platform for retailers in Cyberjaya's smart city ecosystem. Features ERC20 tokens, staking, rewards, and accuracy tracking.
+Deep learning system fusing LSTM sequence modeling with CNN spatial analysis for real-time dengue outbreak prediction. Custom data pipelines + dynamic geospatial mapping.
 
-**Tech Stack:**
+**Protocol Stack:**
+`Python` `LSTM` `CNN`
+`Node.js` `Express` `MongoDB`
+`Passport.js` `Cloudinary` `EJS`
 
-- React, TypeScript, Vite
-- Tailwind CSS, shadcn/ui
-- Node.js, Express, OpenAI
-- Solidity (Smart Contracts)
+**Model Performance:**
+- 🧠 Dual-model: **LSTM + CNN** fusion
+- 📊 Real-time epidemiological data feeds
+- 🗺️ Dynamic hotspot mapping
+- 🚨 Automated early warning system
 
-**Deployed on:** Sepolia Network
-
-🔗 [Live Demo](https://chimerical-starship-3a03b5.netlify.app/) | [GitHub](https://github.com/arafateasin)
+[![Live Demo](https://img.shields.io/badge/◈_LIVE_DEMO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://dengue-ai-frontend-4onu.vercel.app/)
+[![Source](https://img.shields.io/badge/◈_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/arafateasin)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 💎 ProfitHive
+> **DeFi Revenue-Sharing Smart Platform**
+
+```
+STATUS   ▸ 🟢 DEPLOYED
+CHAIN    ▸ Sepolia Testnet
+STANDARD ▸ ERC-20 + Staking
+```
+
+AI-driven demand forecasting meets on-chain revenue distribution. Custom ERC-20 token economy with staking rewards, accuracy-based incentives, and transparent governance for Cyberjaya retailers.
+
+**Protocol Stack:**
+`React` `TypeScript` `Vite`
+`Tailwind CSS` `shadcn/ui`
+`Node.js` `Express` `OpenAI`
+`Solidity` `Smart Contracts`
+
+**DeFi Features:**
+- 🪙 Custom **ERC-20** token economy
+- 📈 AI demand forecasting engine
+- 🔒 On-chain staking + reward distribution
+- 🏙️ Smart city ecosystem integration
+
+[![Live Demo](https://img.shields.io/badge/◈_LIVE_DEMO-0d1117?style=for-the-badge&logo=netlify&logoColor=00ffff)](https://chimerical-starship-3a03b5.netlify.app/)
+[![Source](https://img.shields.io/badge/◈_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/arafateasin)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚨 WalkSafe
+> **Decentralized Personal Safety Protocol**
 
-**Personal Safety Mobile App**
+```
+STATUS   ▸ 🟢 LIVE
+PLATFORM ▸ Android & iOS
+STACK    ▸ Flutter + Firebase
+```
 
-Cross-platform mobile app with emergency SOS alerts, real-time GPS location tracking, voice recording, safety tips, and emergency contacts management with SMS sharing.
+Cross-platform emergency response mobile app with real-time GPS tracking, SOS broadcasting, encrypted voice recording, and instant SMS fallback for personal safety automation.
 
-**Tech Stack:**
+**Protocol Stack:**
+`Flutter` `Dart`
+`Firebase Auth` `Firestore`
+`Google Maps API` `Geolocator`
+`Provider` `SMS API`
 
-- Flutter, Dart
-- Firebase Auth & Firestore
-- Google Maps API
-- Geolocator, Provider
+**Safety Modules:**
+- 🆘 One-tap **SOS** broadcast
+- 📍 Real-time GPS tracking + sharing
+- 🎙️ Encrypted voice log recording
+- 📱 Auto SMS to emergency contacts
 
-**Platforms:** Android & iOS
-
-🔗 [GitHub](https://github.com/arafateasin/WalkSafe.git)
-
-</td>
-<td width="50%">
-
-### 📅 CampusConnect
-
-**🏆 Code & Earn Week 5.0 - 50,000 AXON Bounty**
-
-College event aggregator platform for discovering hackathons, tech talks, and workshops with advanced filtering, PWA support, and analytics.
-
-**Tech Stack:**
-
-- Next.js, TypeScript
-- React, Tailwind CSS
-- MongoDB, Mongoose
-- Firebase Auth
-
-**Features:** User profiles, favorites, notifications, responsive design
-
-🔗 [Live Demo](https://campusconnect-platform.netlify.app/) | [GitHub](https://github.com/arafateasin)
+[![Source](https://img.shields.io/badge/◈_VIEW_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=ff6b6b)](https://github.com/arafateasin/WalkSafe.git)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### � Airbnb Clone
+### 🏛️ CampusConnect
+> **Decentralized Campus Intelligence Hub**
 
-**Full-Stack Rental Platform**
+```
+STATUS   ▸ 🏆 50,000 AXON BOUNTY WON
+EVENT    ▸ Code & Earn Week 5.0
+TYPE     ▸ PWA + Analytics Platform
+```
 
-Fully functional rental platform with user authentication, listing creation, review management, and booking features. Role-based access control and image uploads.
+Event aggregation network for university tech ecosystems. Advanced filtering, real-time notifications, user-profiled recommendations, and full PWA support for hackathons, tech talks, and workshops.
 
-**Tech Stack:**
+**Protocol Stack:**
+`Next.js` `TypeScript` `React`
+`Tailwind CSS` `MongoDB`
+`Mongoose` `Firebase Auth`
 
-- Node.js, Express
-- MongoDB, Passport.js
-- Cloudinary, EJS
-- HTML/CSS
+**Platform Metrics:**
+- 💰 **50,000 AXON** token bounty winner
+- 📅 Aggregates **all campus tech events**
+- 🔔 Smart notification engine
+- 📊 Built-in analytics dashboard
 
-**Features:** Session management, CRUD operations, real-time feedback
-
-🔗 [GitHub](https://github.com/arafateasin)
+[![Live Demo](https://img.shields.io/badge/◈_LIVE_DEMO-0d1117?style=for-the-badge&logo=netlify&logoColor=00ffff)](https://campusconnect-platform.netlify.app/)
+[![Source](https://img.shields.io/badge/◈_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/arafateasin)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### � Quora Clone
+### 🧩 Other Builds
+> **Full-Stack Protocol Experiments**
 
-**Social Q&A Platform**
+```
+◈ Airbnb Clone ─────────── Node.js / MongoDB / EJS
+  Role-based auth, booking CRUD, image uploads
 
-Q&A platform with user authentication, post creation, comment management, upvoting, and personalized user profiles.
+◈ Quora Clone ──────────── Express.js / EJS
+  Q&A network, upvoting, dynamic session auth
 
-**Tech Stack:**
+◈ Library System ───────── Java (OOP)
+  Borrow / renew / return, HashMap-based storage
 
-- Express.js, EJS
-- Node.js
-- Session Management
+◈ Class Manager ────────── Python / PyGame
+  GUI + relational DB with queries and forms
 
-**Features:** CRUD operations, dynamic rendering, secure login
+◈ City Uni Network ─────── Cisco Packet Tracer
+  VLANs, RIPv2, DHCP, dual-campus topology
+```
 
-🔗 [GitHub](https://github.com/arafateasin)
+[![All Repos](https://img.shields.io/badge/◈_ALL_REPOS-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/arafateasin?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-### 📚 Academic Projects
-
-<details>
-<summary><b>🏫 Library Management System</b> - Java (Jun 2024)</summary>
-
-- Developed comprehensive system with user authentication, book borrowing/renewing/returning, and overdue notifications
-- Implemented OOP principles: encapsulation, inheritance, and polymorphism
-- Features: Dynamic book search by title/author/genre, personalized recommendations, efficient data handling with HashMaps and ArrayLists
-- Enhanced UX with interactive prompts and real-time updates
-</details>
-
-<details>
-<summary><b>🏛️ Class Management System</b> - Python & PyGame (Jun 2024)</summary>
-
-- Built GUI with PyGame for data visualization
-- Developed relational database structures using queries, forms, and reports
-- Streamlined data management and enhanced user accessibility
-</details>
-
-<details>
-<summary><b>🌐 City University Network in Cisco</b> - Networking (Sep-Dec 2024)</summary>
-
-- Designed and implemented complete network topology for City University
-- Configured VLANs, RIPv2 routing, DHCP, and security measures
-- Optimized connectivity between two campuses with network segmentation and VLAN access control
-- Implemented port security and reliable routing protocols
-</details>
-
 ---
 
-## 🏆 Achievements & Certifications
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ACHIEVEMENTS                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `⬡` ON-CHAIN ACHIEVEMENTS — Proof of Work
 
 <div align="center">
 
-| 🎯 Achievement           | 📅 Event/Platform                            |  🎖️ Status   |
-| :----------------------- | :------------------------------------------- | :----------: |
-| **3rd Place - DengueAI** | UST Malaysia 24-Hour Regional Hackathon 2025 |  🥉 Winner   |
-| **50,000 AXON Bounty**   | Code & Earn Week 5.0 - CampusConnect         |  💰 Winner   |
-| **ProfitHive**           | InnoJam Hackathon                            | 🚀 Completed |
-| **AI Quiz DApp**         | Blockchain Bounty Program                    | ✅ Completed |
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          ◈  ACHIEVEMENT LEDGER  ◈                          │
+├──────────────────┬──────────────────────────────────────┬───────────────────┤
+│  PROTOCOL        │  EVENT                               │  RESULT           │
+├──────────────────┼──────────────────────────────────────┼───────────────────┤
+│  🥉 DengueAI     │  UST Malaysia 24H Hackathon 2025     │  3rd Place        │
+│  💰 CampusConnect│  Code & Earn Week 5.0 Bounty Program  │  50,000 AXON      │
+│  🚀 ProfitHive   │  InnoJam Hackathon                   │  Completed        │
+│  ✅ AI Quiz DApp │  Blockchain Bounty Program           │  Completed        │
+└──────────────────┴──────────────────────────────────────┴───────────────────┘
+```
 
 </div>
 
-### 📜 Professional Certifications
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CERTIFICATIONS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `◈` CREDENTIALS — Certification Ledger
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Blockchain & Web3
+#### ⛓️ Blockchain & Web3
 
-- 🎓 [**Ethereum and Solidity: The Complete Developer's Guide**](https://www.udemy.com/certificate/)
-- 🎓 [**The Complete Solidity Course - Blockchain - Zero to Expert**](https://www.udemy.com/certificate/)
-- 🔗 Hands-on experience with DApps, Smart Contracts, ERC20 Tokens
+![Udemy](https://img.shields.io/badge/Udemy-0d1117?style=for-the-badge&logo=udemy&logoColor=a855f7)
+
+🔐 **Ethereum & Solidity: Complete Developer's Guide**
+🔐 **The Complete Solidity Course — Zero to Expert**
+
+`DApps` • `Smart Contracts` • `ERC-20` • `Hardhat` • `Remix`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Full-Stack Development
+#### 🖥️ Full-Stack Development
 
-- 🎓 [**MERN Stack Developer** - Apna College](https://credentials.com/)
-- 🎓 [**Amazon Full Stack Web Development** - Coursera](https://coursera.org/verify/)
-- 🎓 [**Amazon Junior Software Developer** - Coursera](https://coursera.org/verify/)
-- 🎓 [**Microsoft Foundation of Coding Full-Stack** - Coursera](https://coursera.org/verify/)
+![Coursera](https://img.shields.io/badge/Coursera-0d1117?style=for-the-badge&logo=coursera&logoColor=00ffff)
+![ApnaCollege](https://img.shields.io/badge/Apna_College-0d1117?style=for-the-badge&logo=buffer&logoColor=00ff88)
+
+📜 **MERN Stack Developer** — Apna College
+📜 **Amazon Full Stack Web Development** — Coursera
+📜 **Amazon Junior Software Developer** — Coursera
+📜 **Microsoft Foundation of Coding Full-Stack** — Coursera
 
 </td>
 </tr>
 </table>
 
-### 🔬 Research & Innovation
-
-- **DeFi for Financial Inclusion** - Ongoing research on blockchain-based financial accessibility solutions
-- Active participant in **Web3** and **Blockchain** bounty programs
-- Contributing to **open-source** blockchain and AI/ML projects
-- Focus on **smart city ecosystems** and **IoT integration**
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  RESEARCH                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `⬡` RESEARCH NODE — Current Transmissions
+
+```
+◈  DeFi for Financial Inclusion ──────── ACTIVE 🟢
+   Blockchain-based financial accessibility for underserved communities
+
+◈  Web3 + AI Hybrid Systems ──────────── ACTIVE 🟢
+   Fusing on-chain logic with ML inference pipelines
+
+◈  Smart City Blockchain Ecosystems ──── ACTIVE 🟢
+   IoT + DeFi integrations for urban infrastructure
+
+◈  Open-Source Contributions ─────────── ACTIVE 🟢
+   Blockchain, AI/ML, and Full-Stack public repositories
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `◈` CHAIN METRICS — GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafateasin&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=arafateasin&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ffff&icon_color=a855f7&text_color=c9d1d9&ring_color=00ffff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafateasin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafateasin&layout=compact&theme=radical&hide_border=true)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafateasin&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arafateasin&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a855f7&ring=00ffff&fire=ff6b6b&currStreakNum=00ffff&sideNums=a855f7&currStreakLabel=00ffff&sideLabels=c9d1d9&dates=8b949e" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arafateasin&bg_color=0d1117&color=00ffff&line=a855f7&point=00ff88&area=true&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONNECT / FOOTER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `⬡` INITIALIZE CONNECTION — Let's Build Together
 
 <div align="center">
 
-### 💬 Open to Collaborations & Opportunities
+```
+◈ Open to:  Blockchain Projects · DeFi Protocols · AI/ML Collaborations
+            Internships · Hackathons · Open-Source · Research
+```
 
-I'm always interested in **blockchain development**, **FinTech projects**, **AI/ML applications**, and **innovative software engineering** challenges. Whether you have a project idea, collaboration opportunity, internship, or just want to discuss technology — feel free to reach out!
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arafateasin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arafateasin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:easinarafat.bn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafateasin.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/arafateasin)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/arafateasin)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:easinarafat.bn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffff)](https://arafateasin.dev/)
 
-📧 **Email:** easinarafat.bn@gmail.com  
-📱 **Phone:** +601112794136  
-🌐 **Portfolio:** [arafateasin.dev](https://arafateasin.dev/)  
-💼 **Location:** Cyberjaya, Malaysia
+<br/>
 
-</div>
+```
+📧  easinarafat.bn@gmail.com
+📱  +601112794136
+🌐  arafateasin.dev
+📍  Cyberjaya, Malaysia
+```
 
----
+<br/>
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=arafateasin&color=blueviolet&style=flat-square)
-
-**⭐ Star this repo if you find it interesting!**
-
----
-
-_"Innovation distinguishes between a leader and a follower." - Steve Jobs_
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=⛓️+Let's+Build+the+Decentralized+Future&fontSize=18&fontColor=00ffff&fontAlignY=65)
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--   MIT License · github.com/arafateasin · arafateasin.dev  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
